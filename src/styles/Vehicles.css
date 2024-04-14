@@ -1,0 +1,15 @@
+
+.vehiclesCard{
+    width: 20rem;
+    display: inline-block;
+    background-color: rgba(250, 235, 215, 0.137);
+    
+}
+
+.hide{
+    display: none;
+}
+
+.card-img-top{
+    max-height: 212px;
+}
